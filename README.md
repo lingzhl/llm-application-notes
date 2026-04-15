@@ -8,7 +8,7 @@
 - `python/`：Python 与工程化基础
 
 ## 当前学习主线
-- SmartDine：面向餐饮点餐与菜品推荐的 Agentic RAG 智能助手
+- xxxxxx：面向xxxxxxx的 Agentic RAG 智能助手
 - Hot100
 - 八股
 - 专业课复习
